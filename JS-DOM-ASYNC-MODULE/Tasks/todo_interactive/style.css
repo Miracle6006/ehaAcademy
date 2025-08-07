@@ -31,7 +31,7 @@
 
     li.completed {
       color: white;
-      background-color:green;
+      background-color:darkred;
     }
 
     .checkmark {
